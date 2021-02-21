@@ -5,4 +5,6 @@ Simple Android GPS Tracker that will show the detail of your Android Device Loca
 
 This will be a testing project for College Attendance System based on GPS Tracking that will be created.
 
+Compability settings : Android 5.0 (Lollipop) with API Level 21.
+
 Made with ❤️ by The Hades Shade.
